@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>condition</title>
+</head>
+<body>
+    <script>
+        // if else if and else 
+        let num = 14;
+        if(num >=18){
+            console.log("voter id is valid");
+        }
+        else if(num <= 15){
+            console.log("childern are not eligible for the voterid");
+        }
+        else{
+            console.log("voter id is invalid");
+        }
+
+        // switch condition
+
+        let age = 50;
+        let categorie ;
+        switch (age) {
+            case 10:
+                categorie = "childern";
+                break;
+            case 15:
+                categorie = "minor";
+                break;
+            case 18:
+                categorie ="major";
+                break;
+            case 20:
+                categorie = "Adult";
+                break;
+            case 40:
+                categorie = "citizen";
+                break;
+            default:
+                categorie = "senior citizen";
+                break;
+        }
+console.log(categorie);
+    </script>
+    
+</body>
+</html>
