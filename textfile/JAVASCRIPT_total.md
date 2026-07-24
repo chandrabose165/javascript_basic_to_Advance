@@ -33,7 +33,7 @@
 \- The JavaScript is the strictly case-sensitive.
 
 * The JavaScript is Interpreted base language.
-* To access the element in the JavaScript we can **document.getElementbyId()** is use to access the particular element in the html tag 
+* To access the element in the JavaScript we can **document.getElementbyId()** is use to access the particular element in the html tag
 
 
 
@@ -65,7 +65,7 @@
 
 \- There are one Non-Primitive (Reference) Data Type is object is not but dictionaries storing like key value pairs
 
-
+* In non-primitive datatype if can give the value in unorder in the console it will take as order file only like if take first-name, last-name and course but it will take first as course then it move order vias only.
 
 ###### operations
 
@@ -75,14 +75,12 @@
 
 ###### Statement
 
-* **There are different types of statements in JavaScript** 
-1. conditional statements -> "if, else if ,else ,switch, case" this are the conditional statement in the JavaScript.
+* **There are different types of statements in JavaScript**
+1. Conditional statements -> "if, else if ,else ,switch, case" this are the conditional statement in the JavaScript.
 
-2\. control statements -> break, continue, return
+2\. control statements -> break, continue, return.
 
-3\. iterative statements -> for, while, do while this are three loop are used in the JavaScript 
+3\. Iterative statements -> for, while, do while this are three loop are used in the JavaScript.
 
-4\. Exception Handling Statements -> try, catch, throw and throws
-
-
+4\. Exception Handling Statements -> try, catch, throw and throws.
 
