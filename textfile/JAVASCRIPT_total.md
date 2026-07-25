@@ -71,7 +71,7 @@
 
 \- The operations are Arithmetic, assignment, Comparison, Logical operations
 
-
+##### **Day - 2**
 
 ###### Statement
 
@@ -83,4 +83,22 @@
 3\. Iterative statements -> for, while, do while this are three loop are used in the JavaScript.
 
 4\. Exception Handling Statements -> try, catch, throw and throws.
+
+
+
+#### **condition statements**
+
+**if statement** : It check the condition if the condition true it will print the output.
+
+**else if statement** : it check the same if statement but where we can if condition must be false then it should executed. we can right n number of else if statement in the code .
+
+some statement we can't use else if it completed in two statement only.
+
+**else statement :** It is an finally statement IF statement is false then it should printed default
+
+
+
+
+
+
 
