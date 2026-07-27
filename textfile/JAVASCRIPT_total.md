@@ -61,6 +61,7 @@
 
 \- There are seven Primitive Data Types are String, number, Boolean, Undefined, Null, Symbol, BigInt
 
+* This datatypes we can use for type conversion only.
 * There are main four Datatypes are used in the JavaScript there are number, Boolean, String, float
 
 \- There are one Non-Primitive (Reference) Data Type is object is not but dictionaries storing like key value pairs
@@ -70,6 +71,13 @@
 ###### operations
 
 \- The operations are Arithmetic, assignment, Comparison, Logical operations
+
+* the Arithmetic operators is names because used for simple calculation 
+* The operators are used in our day to day life like using Amazon for ordering the items.
+* comparison operators are used to compare with any thing like two person age we can comparison is used.
+* In The operators there are first Priority are brakes and the second Priority is multiplication and division and the Third Priority is addition and subtraction.
+* In operators we can two different way like one merge the two String it act as adding one by one.
+* In second one is doing some calculation in the number and float value.
 
 ##### **Day - 2**
 
