@@ -72,7 +72,7 @@
 
 \- The operations are Arithmetic, assignment, Comparison, Logical operations
 
-* the Arithmetic operators is names because used for simple calculation 
+* the Arithmetic operators is names because used for simple calculation
 * The operators are used in our day to day life like using Amazon for ordering the items.
 * comparison operators are used to compare with any thing like two person age we can comparison is used.
 * In The operators there are first Priority are brakes and the second Priority is multiplication and division and the Third Priority is addition and subtraction.
@@ -107,5 +107,7 @@ some statement we can't use else if it completed in two statement only.
 ##### **Loop statements or iterative statements**
 
 * The loop statements are three types like for loop, while loop and do while loop through this we can print n number of values and element
-* In for Loop we can manipulate the starting and ending number. we can manipulate
+* In for Loop we can manipulate the starting and ending number. we can  also know the starting and ending number.
+* The real time example for loop is taking a chocolate one by one in box.
+* In while loop we can't know the count of the values it relies on condition.
 
