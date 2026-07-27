@@ -96,9 +96,8 @@ some statement we can't use else if it completed in two statement only.
 
 **else statement :** It is an finally statement IF statement is false then it should printed default
 
+##### **Loop statements or iterative statements**
 
-
-
-
-
+* The loop statements are three types like for loop, while loop and do while loop through this we can print n number of values and element
+* In for Loop we can manipulate the starting and ending number. we can manipulate
 
