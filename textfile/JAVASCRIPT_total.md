@@ -37,7 +37,7 @@
 * The JavaScript is Interpreted base language.
 * To access the element in the JavaScript we can **document.getElementbyId()** is use to access the particular element in the html tag
 * In the 2009 NodeJS is released to develop the application in JavaScript programming.
-* 
+* The JavaScript widely used for mobile app and gaming webapp
 
 ###### Variables
 
