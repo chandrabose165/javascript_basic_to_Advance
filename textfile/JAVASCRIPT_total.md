@@ -6,6 +6,8 @@
 
 ###### Introduction JavaScript
 
+* The JavaScript is a powerful client-side script language.
+
 \- The first was launched in the year of 1995 create in the just 10 days.
 
 \- The JavaScript Latest version is ECAM2026 in the year of 2026.
@@ -24,7 +26,7 @@
 
 \- 1. we can open any browser in that go to console we can write the code in the console box but is an temporary storage
 
-\- 2. In Second way we can create file with extension of .js so we can run code in the VScode of terminal
+\- 2. In Second way we can create file with extension of .Js so we can run code in the Visual studio code of terminal
 
 \- 3. In the third way we can create the script file and also we can create the index file we can link the both file using script tag we can the file.
 
@@ -34,8 +36,8 @@
 
 * The JavaScript is Interpreted base language.
 * To access the element in the JavaScript we can **document.getElementbyId()** is use to access the particular element in the html tag
-
-
+* In the 2009 NodeJS is released to develop the application in JavaScript programming.
+* 
 
 ###### Variables
 
@@ -110,4 +112,5 @@ some statement we can't use else if it completed in two statement only.
 * In for Loop we can manipulate the starting and ending number. we can  also know the starting and ending number.
 * The real time example for loop is taking a chocolate one by one in box.
 * In while loop we can't know the count of the values it relies on condition.
+* 
 
