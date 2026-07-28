@@ -3,4 +3,4 @@ let Name = "Chandrabose";
 const RollNo = "2211CS030165";
 console.log(Name);
 console.log(RollNo);
-// alert("Welcome to javascript");
+alert("Welcome to javascript");
