@@ -117,12 +117,53 @@ switch and case statement there is only one switch condition and multiply case c
 
 ##### **Type-conversation and coercion**
 
-* The type conversation is change the datatype in manual 
+* The type conversation is change the datatype in manual
 * The type coercion is the JavaScript it only change the datatype automatically.
 * The JavaScript has advanced feature like it only change the datatype
 
 ##### **truthy and falsely values**
 
 * The falsely value some are predefined like 0, -0, undefined, null, "",0n, false, NAN there are the predefined function that always gives the false.
-* The remaining value all comes under the true value. 
+* The remaining value all comes under the true value.
+
+#### **Day-3**
+
+###### **Function**
+
+* They are 3-types of function are like Declaration function, arrow function, Expression function there are my three types of function in JavaScript.
+* The function contain the arguments and parameter. Argument -> there are real value we can as arguments. parameter is duplicated value wish replaced with actual word so it is act like a variable in the functions.
+* 1\. Declaration Function -> It is a normal function where we can use built in type called function keyword.
+* In function we can write the conditional statements also and we can execute that code also.
+
+example:
+
+function wish(msg){
+
+console.log(msg);
+
+}
+
+wish("Have a good day");
+
+
+
+* 2\. arrow function ->  we can declaration of the function we like code in one line only 
+
+like 
+
+Example: const multiply = (a, b) => a \* b; 
+
+* 3\. Function Express is we can decelerated one variable and in that we write the function code. it combination of arrow function and declaration function
+
+Example:
+
+const is online = function(status) { return status === "online";}
+
+console.log(is online("online"));
+
+
+
+
+
+
 
