@@ -35,7 +35,7 @@ console.log(student);
   console.log(student);
 }
 
-// if elese condition in javscript
+// if else condition in javscript
 
 if (student.emailId.endsWith("gmail.com")) {
   console.log("This mail  is  for Google");
