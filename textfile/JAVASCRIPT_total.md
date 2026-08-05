@@ -110,7 +110,7 @@ switch and case statement there is only one switch condition and multiply case c
 
 ##### **Loop statements or iterative statements**
 
-* The loop statements are three types like for loop, while loop and do while loop through this we can print n number of values and element
+* The loop statements are Five types like for loop, while loop and do while loop , forEach  for...of, for..in through this we can print n number of values and element
 * In for Loop we can manipulate the starting and ending number. we can  also know the starting and ending number.
 * The real time example for loop is taking a chocolate one by one in box.
 * In while loop we can't know the count of the values it relies on condition.
@@ -131,6 +131,7 @@ switch and case statement there is only one switch condition and multiply case c
 ###### **Function**
 
 * They are 3-types of function are like Declaration function, arrow function, Expression function there are my three types of function in JavaScript.
+* We can write the function once and we call that function any where in the code.
 * The function contain the arguments and parameter. Argument -> there are real value we can as arguments. parameter is duplicated value wish replaced with actual word so it is act like a variable in the functions.
 * 1\. Declaration Function -> It is a normal function where we can use built in type called function keyword.
 * In function we can write the conditional statements also and we can execute that code also.
@@ -147,11 +148,11 @@ wish("Have a good day");
 
 
 
-* 2\. arrow function ->  we can declaration of the function we like code in one line only 
+* 2\. arrow function ->  we can declaration of the function we like code in one line only
 
-like 
+like
 
-Example: const multiply = (a, b) => a \* b; 
+Example: const multiply = (a, b) => a \* b;
 
 * 3\. Function Express is we can decelerated one variable and in that we write the function code. it combination of arrow function and declaration function
 
@@ -161,9 +162,20 @@ const is online = function(status) { return status === "online";}
 
 console.log(is online("online"));
 
+##### **Day- 4** 
 
+###### **Objects**
 
+* collection of related propreties and/or methods can represent real world objects it contain the key value pairs 
+* We can access the object in two ways one is through dot notation like "student.name".
+* we can also use the square brackes Notation \[] to access the keys.
+* we can modifiy , delete , change the values in object.
+* We can use **this Keyoword** to refers to the cureent object itself This method allow to access other properties within the same object
 
+###### **Manipulate the html p age**
 
+**Different between the innerText and innerHTML**
 
+* innertext we can only manipulate the text contain in the page and the console
+* innerHtml we can replace the text with user text
 
